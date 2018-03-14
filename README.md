@@ -1,2 +1,2 @@
-3# Tutorial-for-Seminar
-Ajay Kumar 160303105014
+# Tutorial-for-Seminar
+AjayKumar 160303105014
